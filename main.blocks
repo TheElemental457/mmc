@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="keyonevent" id="Z14EaEl}f6$CIWSn@mt;" x="0" y="0"><field name="button">controller.A</field><field name="event">ControllerButtonEvent.Pressed</field></block><block type="pxt-on-start" id="Vo/_FzXK;/3h+mSshRW0" x="1" y="104"></block></xml>
